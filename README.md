@@ -46,7 +46,7 @@
   </tr>
   
   <tr>
-   <td>Construa um gráfico de linhas que mostre a quantidade de ligações atendidas por cidade</td>
+   <td>Construa um gráfico de linhas que mostre a quantidade de ligações atendidas por plataforma</td>
    <td>Operação Matemática | Agrupamento | União | Where</td>
    <td>leads_basic_details | leads_basic_details</td>
    <td>select A.jnr_sm_id, count(A.call_status), A.call_done_date, B.current_city from leads_interaction_details A
