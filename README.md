@@ -9,14 +9,14 @@
    <td>Tabelas</td>
    <td>Query</td>
   </tr>
+  
   <tr>
    <td>Construa um gráfico de pizza no metabase informando a quantidade de pessoas por generos/td>
    <td>Operação Matemática | Agrupamento</td>
    <td>leads_basic_details</td>
    <td>select gender as Generos, count(gender) as Quantidade
     from leads_basic_details
-    group by gender
-   </td>
+    group by gender </td>
   </tr>
   
   
