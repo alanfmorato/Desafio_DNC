@@ -1,6 +1,5 @@
 # Desafio_SQL_DNC
 
-1 - Construa um card no metabase informando a idade média dos leads
 
 <table align="center">
   <tr>
